@@ -7,12 +7,8 @@
 Full-Stack Software Engineer focused on building scalable, end-to-end web applications with frontend and backend development, APIs, cloud deployment, testing, and secure systems.
 
 
-TECHNICAL 
+Projects I'm currently working on:
 
-Languages: Python, C, C++, Java, JavaScript, TypeScript, HTML, Assembly
+UC Merced Campus Store | Full-Stack PWA & Autonomous Delivery Platform 
 
-Frameworks & Libraries: React (React.js), React Native, Expo, Django, FastAPI, Node.js, PyTorch, Hugging Face
-
-Databases & Systems: PostgreSQL (Postgres), SQL, Linux, Windows
-
-Cloud & DevOps: Google Cloud Platform (GCP), Docker, GitHub, Git, CI/CD
+UC Merced Parking | Progressive Web App & Computer Vision System
