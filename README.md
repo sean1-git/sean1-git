@@ -9,6 +9,6 @@ Full-Stack Software Engineer focused on building scalable, end-to-end web applic
 
 Projects I'm currently working on:
 
-UC Merced Campus Store | Full-Stack PWA & Autonomous Delivery Platform 
+UC Merced Campus Store | Full-Stack PWA & Autonomous Delivery Platform at R&D Lab
 
-UC Merced Parking | Progressive Web App & Computer Vision System
+UC Merced Parking | Progressive Web App & Computer Vision System at R&D Lab
