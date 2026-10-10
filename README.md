@@ -11,4 +11,4 @@ Projects I'm currently working on:
 
 UC Merced Campus Store | Full-Stack PWA & Autonomous Delivery Platform 
 
-UC Merced Parking | Progressive Web App & Computer Vision System 
+UC Merced Parking | React Native App & Computer Vision System 
