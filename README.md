@@ -14,7 +14,7 @@ UC Merced Campus Store | Full-Stack PWA & Autonomous Delivery Platform
 UC Merced Parking | Cross-Platform App & Computer Vision System 
 
 
-<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/522f2b1d-8037-4b3f-ad9e-73d6d75ee2b7" />
+![Experience](https://coolreadme.xyz/api/experience-card?user=gaearon&theme=dark&accent=%2300FF88&entries=Vercel%7CFrontend+Engineer%7C2023%E2%80%94Now%7C%3B%3BOpenAI%7CML+Intern%7C2022%E2%80%942023%7C%3B%3BMIT%7CBSc+Computer+Science%7C2018%E2%80%942022%7C)
 
 
 
