@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there <img src="./wave.svg" width="32" height="32" alt="Waving hand" />
+
 
 
 <img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/0aec0c7f-9b2b-4240-add5-fce1d8119bba" />
