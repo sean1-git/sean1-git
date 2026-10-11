@@ -5,7 +5,6 @@
 
 
 Full-Stack Software Engineer focused on building scalable, end-to-end web applications with frontend and backend development, APIs, cloud deployment, testing, and secure systems.
-<img width="480" height="310" alt="image" src="https://github.com/user-attachments/assets/afce1f89-1c1d-47ad-b843-b1cb07099be7" />
 
 
 Projects I'm currently working on:
