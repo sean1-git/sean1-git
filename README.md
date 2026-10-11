@@ -13,6 +13,7 @@ UC Merced Campus Store | Full-Stack PWA & Autonomous Delivery Platform
 
 UC Merced Parking | Cross-Platform App & Computer Vision System 
 
-##Tools
 
-<img width="273" height="48" alt="image" src="https://github.com/user-attachments/assets/3ed3341c-9d8e-42c5-a47f-a32780814cfb" />
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/c59ff225-88b6-4436-a0e0-b1f5563ad3e5" />
+
