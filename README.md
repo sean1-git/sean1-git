@@ -13,6 +13,6 @@ UC Merced Campus Store | Full-Stack PWA & Autonomous Delivery Platform
 
 UC Merced Parking | Cross-Platform App & Computer Vision System 
 
-### GitHub Activity
+## GitHub Activity
 
 ![My contribution calendar](./metrics.isocalendar.svg)
