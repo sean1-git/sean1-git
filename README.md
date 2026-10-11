@@ -15,5 +15,6 @@ UC Merced Parking | Cross-Platform App & Computer Vision System
 
 
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/c59ff225-88b6-4436-a0e0-b1f5563ad3e5" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/36498b75-faf0-414d-9680-ba0481a69223" />
+ <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f5c7aded-a479-439b-9b79-1eadce6d7565" />
 
