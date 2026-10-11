@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 64 64">
+  <title>Waving hand</title>
+  <style>
+    .hand { transform-origin: 32px 51px; animation: wave 2.4s ease-in-out infinite; }
+    @keyframes wave {
+      0%, 60%, 100% { transform: rotate(0deg); }
+      10%, 30% { transform: rotate(18deg); }
+      20%, 40% { transform: rotate(-12deg); }
+      50% { transform: rotate(8deg); }
+    }
+  </style>
+  <g class="hand">
+    <path d="M20 34V17a4 4 0 0 1 8 0v12V11a4 4 0 0 1 8 0v18V14a4 4 0 0 1 8 0v17V21a4 4 0 0 1 8 0v19c0 12-7 19-18 19-8 0-13-4-17-10L9 36a4 4 0 0 1 6-5l5 6Z"
+      fill="#ffcf4b" stroke="#bc801f" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M21 37c7-3 13 1 13 8" fill="none" stroke="#bc801f" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
