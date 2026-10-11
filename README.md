@@ -1,4 +1,4 @@
-## Hi there <img src="./wave.svg" width="32" height="32" alt="Waving hand" />
+## Hi there! <img src="./wave.svg" width="32" height="32" alt="Waving hand" />
 
 
 
